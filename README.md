@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Data Structures and Algorithims, Kotlin, AWS**
 
-💬 Ask me about **DSA, Algorithims,React, ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **DSA, Algorithims,React, ... or anything [here](https://github.com/kishan9535/kishan9535/issues)**
 
 
 ⚡ Fun fact ** I Love problem Solving and Exploring new Things**
