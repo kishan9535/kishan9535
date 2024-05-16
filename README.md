@@ -17,7 +17,7 @@
 💬 Ask me about **DSA, Algorithims,React, ... or anything [here](https://github.com/kishan9535/kishan9535/issues)**
 
 
-⚡ Fun fact ** I Love problem Solving and Exploring new Things**
+⚡ Fun fact  I Love problem Solving and Exploring new Things
 ----------------
 
 At MSRIT, I am a Third-year engineering student. My passion for programming has led me to be quite active on a number of problem-solving websites. I'm also learning new things like machine learning, mobile app development, while exploring the Web Domain of the programming world.
