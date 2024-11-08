@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Studing on **a Kotlin**
+ 🔭 I’m currently Studing on **MERN**
  
  🌱 I’m currently learning **Data Structures and Algorithims, Kotlin, AWS**
 
