@@ -12,7 +12,7 @@
  
  🔭 I’m currently Studing on **MERN**
  
- 🌱 I’m currently learning **Data Structures and Algorithims, Kotlin, AWS**
+ 🌱 I’m currently learning **Data Structures and Algorithims, MERN, AWS**
 
 💬 Ask me about **DSA, Algorithims,React, ... or anything [here](https://github.com/kishan9535/kishan9535/issues)**
 
@@ -33,7 +33,7 @@ I have experience with competitive programming, and data structures and algorith
   <a href="https://in.linkedin.com/in/kishan-kumar-n-855058234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/kishan9535" target="_blank">
+  <a href="https://kishan17.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
